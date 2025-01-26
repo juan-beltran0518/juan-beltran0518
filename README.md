@@ -5,14 +5,13 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Sebastian Beltran Chiu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Sebastian Beltran </h1></summary>
   </ul>
 </div>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-👋 About Me
 I am an undergraduate Engineering student at the Escuela Colombiana de Ingeniería Julio Garavito, passionate about new technologies and continuous learning. I enjoy exploring and delving into areas related to engineering, developing innovative and challenging projects that allow me to apply my knowledge and skills.
 
 🚀 Skills and Interests
