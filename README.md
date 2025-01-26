@@ -10,18 +10,17 @@
 </div>
 
 
-<!--About Me-->
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+👋 About Me
+I am an undergraduate Engineering student at the Escuela Colombiana de Ingeniería Julio Garavito, passionate about new technologies and continuous learning. I enjoy exploring and delving into areas related to engineering, developing innovative and challenging projects that allow me to apply my knowledge and skills.
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+🚀 Skills and Interests
+New technologies: Enthusiastic about emerging technology trends and their impact on engineering and society.
+Continuous learning: Committed to acquiring new knowledge to foster my personal and professional growth.
+Problem-solving: Focused on analyzing and solving technical challenges through creativity and logic.
+🎯 Objective
+My goal is to grow as a professional by collaborating on projects that leverage technological innovation and contribute to building impactful solutions. I am always open to new learning opportunities and being part of interdisciplinary teams.
 
 <br>
 
